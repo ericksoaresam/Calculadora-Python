@@ -6,4 +6,5 @@ Está calculadora está habilitada a realizar via menu:
 * Subtração
 * Multiplicação
 * Divisão
+
 Além de possuir um sistema de loop que permite o usuário desligar a calculadora
